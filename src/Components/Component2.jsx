@@ -31,3 +31,12 @@ const Component2 = ({ items, compcolor,color,bgspotlight}) => {
 export default Component2;
 
 
+
+
+
+
+
+
+
+
+
