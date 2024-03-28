@@ -1,0 +1,65 @@
+export const data1 = [
+    {
+        img: './src/assets/one.png',
+        description: 'Sacramento River Cats',
+        events:'Total Events',
+        Number: 48,
+        sports:'Sport',
+        Sname:'Baseball',
+        id:1,
+    },
+    {
+        img: './src/assets/two.png',
+        description: 'Las Vegas Aviators',
+        events:'Total Events',
+        Number: 28,
+        sports:'Sport',
+        Sname:'Baseball',
+        id:2,
+    },
+    {
+        img: './src/assets/three.png',
+        description: 'New Jersey Devils',
+        events:'Total Events',
+        Number: 15,
+        sports:'Sport',
+        Sname:'Ice Hockey',
+        id:3,
+    },
+    {
+        img: './src/assets/one.png',
+        description: 'Las Vegas Aviators',
+        events:'Total Events',
+        Number: 28,
+        sports:'Sport',
+        Sname:'Baseball',
+        id:4,
+    },
+];
+
+export const data2 = [
+    {
+        image:'./src/assets/sone.png',
+        Name:'Las Vegas Aviators',
+        Time:'OCT 15|SUN|4:30PM',
+        description:'Las Vegas Ballpark, Las Vegas,Nevada',
+        button:'Take Flight Collection',
+        id:11,
+    },
+    {
+        image:'./src/assets/stwo.png',
+        Name:'Las Vegas Aviators',
+        Time:'OCT 15|SUN|4:30PM',
+        description:'Las Vegas Ballpark, Las Vegas,Nevada',
+        button:'Orange Collection',
+        id:12,
+    },
+    {
+        image:'./src/assets/sone.png',
+        Name:'Las Vegas Aviators',
+        Time:'OCT 15|SUN|4:30PM',
+        description:'Las Vegas Ballpark, Las Vegas,Nevada',
+        button:'Take Flight Collection',
+        id:13,
+    },
+]
