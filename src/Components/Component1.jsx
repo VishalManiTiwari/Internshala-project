@@ -13,7 +13,7 @@ const Component1 = (props) => {
              color: `${color}`
             }}
              >
-               <img className='xl:w-[14.5rem] ml-[10px] md:w-[19rem] sm:w-[17rem] sm:ml-[11px] md:h-[22rem] 
+               <img className='xl:w-[14.5rem] ml-[10px] w-[13.8rem] md:w-[19rem] sm:w-[17rem] sm:ml-[11px] md:h-[22rem] 
                 ralative md:ml-[9px] xl:ml-[12px] xl:h-[22rem]' src={item.img} alt="" />
                  <h1 className='relative sm:text-[26px] opacity-95 ml-3 xl:top-3  my-4 
                  md:text-[22px] xl:text-[21px] text-[21px] font-semibold xl:text-[18px]'>{item.description}
